@@ -61,7 +61,11 @@
     </site>
   </distributionManagement>
 
-  <properties>
+  <properties>   
+
+    <sonar.login>admin</sonar.login>
+    <sonar.password>op14092003</sonar.password> 
+  
     <clirr.comparisonVersion>2.4.4</clirr.comparisonVersion>
     <derby.version>10.17.1.0</derby.version>
     <java.version>8</java.version>
